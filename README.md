@@ -37,7 +37,7 @@
 
 ```bash
 $ whoami
-mohammed-naeem  # CS student, East West University, Dhaka
+mohammed-naeem  # CSE student, East West University, Dhaka
 
 $ cat focus.txt
 machine learning | generative AI | security
