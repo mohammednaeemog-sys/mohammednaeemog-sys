@@ -1,75 +1,96 @@
 <!--
-  HOW TO USE THIS FILE (visitors never see this comment)
+  HOW TO USE (visitors never see this comment)
   1. Create a PUBLIC repository named exactly: mohammednaeemog-sys
-  2. Upload this file as README.md. GitHub shows it on your profile page.
-  3. The animation and the stats cards are images loaded from free public services.
-     They update automatically; you do not need to install anything.
-  4. Lines marked EDIT are the ones you should personalise.
+  2. Upload TWO things to it, keeping this folder structure:
+         README.md
+         assets/cowboy-ride.svg
+     The README loads the animation from "assets/cowboy-ride.svg", so the path must match.
+  3. Open your profile page. The cowboy should be galloping across the top.
+  4. Lines marked EDIT are the ones to personalise.
 -->
 
-<!-- Banner: a soft gradient wave. Change "height" to make it taller or shorter. -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:2f81f7&height=140&section=header" alt="" />
+<!-- The animated cowboy. The background is transparent, so it works on light and dark themes. -->
+<p align="center">
+  <img src="assets/cowboy-ride.svg" width="100%" alt="A cowboy riding a galloping horse" />
+</p>
 
 <h1 align="center">Mohammed Naeem</h1>
 
-<!-- Typing animation. Each text after "lines=" is one line; use + for spaces and ; between lines. -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1200&color=2F81F7&center=true&vCenter=true&width=520&lines=Computer+Science+Student;Machine+Learning+and+AI;Cybersecurity+and+Penetration+Testing;Generative+AI+and+RAG+Systems" alt="Typing animation" />
+  <sub>COMPUTER SCIENCE STUDENT &nbsp;·&nbsp; EAST WEST UNIVERSITY, DHAKA</sub>
 </p>
 
 <p align="center">
-  <a href="https://github.com/mohammednaeemog-sys?tab=repositories"><img src="https://img.shields.io/badge/Repositories-View-2f81f7?style=flat-square" alt="Repositories"></a>
-  <!-- EDIT: remove the two lines below if you do not want to show LinkedIn or email -->
-  <a href="https://www.linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact-555555?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <img src="https://img.shields.io/badge/Machine_Learning-30363d?style=flat-square&logoColor=d9822b" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/Generative_AI-30363d?style=flat-square&logoColor=d9822b" alt="Generative AI" />
+  <img src="https://img.shields.io/badge/Cybersecurity-30363d?style=flat-square&logoColor=d9822b" alt="Cybersecurity" />
 </p>
 
-## About
+---
 
-Computer Science student at East West University, Dhaka, working on machine learning, AI, and cybersecurity. Alongside my degree, I build applied projects and carry out independent research.
+### About
 
-**Focus areas:** generative AI and diffusion models, retrieval-augmented generation, machine learning for security, deep learning, and penetration testing.
+I study Computer Science at East West University, Dhaka, and spend most of my time on machine learning, AI, and security. Alongside my degree I build applied projects and carry out independent research, from diffusion-based image tools to machine learning models for password security.
 
-## Tech Stack
-
-<!-- skillicons.dev draws the icons. Add or remove names in "i=" (comma separated).
-     Full list of icon names: https://skillicons.dev -->
-<p>
-  <img src="https://skillicons.dev/icons?i=py,pytorch,git,github,linux" alt="Python, PyTorch, Git, GitHub, Linux" />
-</p>
-
-**Also:** Jupyter Notebook, Gradio, Stable Diffusion, ControlNet, LoRA, Kali Linux, Metasploit
-
-<!-- EDIT: only list tools you are comfortable discussing in an interview. -->
-
-## Featured Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| [**AI Art Studio**](https://github.com/mohammednaeemog-sys/AI-Art-Style-Transfer) | Local-first image stylization app with 18 styles, built on Stable Diffusion, Canny ControlNet and LoRA adapters, with a Gradio interface. Runs without a paid API. | Python, PyTorch, Diffusers, Gradio |
-| [**Password Strength Classification**](https://github.com/mohammednaeemog-sys/Password-Strength-Classification-Using-Structural-Features) | Classifies password strength from structural features using a stacking ensemble. | Python, Jupyter |
-| [**CNN Image Classification**](https://github.com/mohammednaeemog-sys/-Image-Classification-Using-Convolutional-Neural-Network) | Image classifier built with a convolutional neural network. | Jupyter |
-| [**Penetration Testing Simulation**](https://github.com/mohammednaeemog-sys/Penetration-Testing-and-Remote-Access-Simulation-Using-Kali-Linux-and-Metasploit-Framework) | Simulated penetration test and remote access scenario. | Kali Linux, Metasploit |
-
-### Collaborative work
-
-**[EWU Bulletin RAG Chatbot](https://github.com/mohammednaeemog-sys/rag-project-bluebook)**: a local, citation-grounded question-answering system over the East West University bulletin, using hybrid dense and BM25 retrieval with reranking. Fork of a project by [mishkat2025](https://github.com/mishkat2025/rag-project-bluebook).
-
-<!-- EDIT: add one sentence saying exactly what YOU contributed to this project,
-     or delete this whole "Collaborative work" block if you contributed nothing yet. -->
-
-## GitHub Activity
-
-<!-- These cards are generated live from your public GitHub data.
-     With few repositories the numbers look small at first; they grow as you commit.
-     If a card shows an error, the free service is busy: refresh later. -->
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mohammednaeemog-sys&show_icons=true&hide_border=true&title_color=2f81f7&icon_color=2f81f7&text_color=808080&bg_color=00000000" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammednaeemog-sys&layout=compact&hide_border=true&title_color=2f81f7&text_color=808080&bg_color=00000000" alt="Top languages" />
-</p>
+### Stack
 
 <p>
-  <img src="https://streak-stats.demolab.com?user=mohammednaeemog-sys&hide_border=true&ring=2f81f7&fire=2f81f7&currStreakLabel=808080&sideLabels=808080&currStreakNum=808080&sideNums=808080&dates=808080&background=00000000" alt="Contribution streak" />
+  <img src="https://img.shields.io/badge/Python-30363d?style=flat-square&logo=python&logoColor=d9822b" alt="Python" />
+  <img src="https://img.shields.io/badge/PyTorch-30363d?style=flat-square&logo=pytorch&logoColor=d9822b" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/Jupyter-30363d?style=flat-square&logo=jupyter&logoColor=d9822b" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/Gradio-30363d?style=flat-square&logo=gradio&logoColor=d9822b" alt="Gradio" />
+  <img src="https://img.shields.io/badge/Kali_Linux-30363d?style=flat-square&logo=kalilinux&logoColor=d9822b" alt="Kali Linux" />
+  <img src="https://img.shields.io/badge/Git-30363d?style=flat-square&logo=git&logoColor=d9822b" alt="Git" />
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2f81f7,100:0d1117&height=80&section=footer" alt="" />
+<!-- EDIT: only keep tools you can discuss in an interview. Add libraries you have really used. -->
+
+### Selected Work
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <b><a href="https://github.com/mohammednaeemog-sys/AI-Art-Style-Transfer">AI Art Studio</a></b><br />
+      <sub>Local-first image stylization app with 18 styles, built on Stable Diffusion, Canny ControlNet and LoRA adapters, with a Gradio interface. Runs without a paid API.</sub><br />
+      <sub><code>Python</code> <code>PyTorch</code> <code>Diffusers</code></sub>
+    </td>
+    <td width="50%" valign="top">
+      <b><a href="https://github.com/mohammednaeemog-sys/Password-Strength-Classification-Using-Structural-Features">Password Strength Classification</a></b><br />
+      <sub>Classifies password strength from structural features using a stacking ensemble learning approach.</sub><br />
+      <sub><code>Python</code> <code>Machine Learning</code></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b><a href="https://github.com/mohammednaeemog-sys/-Image-Classification-Using-Convolutional-Neural-Network">CNN Image Classification</a></b><br />
+      <sub>Image classifier built with a convolutional neural network.</sub><br />
+      <sub><code>Deep Learning</code> <code>Jupyter</code></sub>
+    </td>
+    <td width="50%" valign="top">
+      <b><a href="https://github.com/mohammednaeemog-sys/Penetration-Testing-and-Remote-Access-Simulation-Using-Kali-Linux-and-Metasploit-Framework">Penetration Testing Simulation</a></b><br />
+      <sub>Simulated penetration test and remote access scenario in a lab setting.</sub><br />
+      <sub><code>Kali Linux</code> <code>Metasploit</code></sub>
+    </td>
+  </tr>
+</table>
+
+**Collaborative work:** [EWU Bulletin RAG Chatbot](https://github.com/mohammednaeemog-sys/rag-project-bluebook), a citation-grounded question-answering system over the university bulletin, forked from a project by [mishkat2025](https://github.com/mishkat2025/rag-project-bluebook).
+
+<!-- EDIT: add one sentence saying exactly what YOU contributed to the RAG project,
+     or delete the "Collaborative work" line if you have not contributed yet. -->
+
+### Activity
+
+<!-- Live cards from your public GitHub data. They look small while you have few commits and grow over time.
+     If a card shows an error, the free service is busy: refresh later or delete that card. -->
+<p>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=mohammednaeemog-sys&show_icons=true&hide_border=true&title_color=d9822b&icon_color=d9822b&text_color=808080&bg_color=00000000" alt="GitHub stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammednaeemog-sys&layout=compact&hide_border=true&title_color=d9822b&text_color=808080&bg_color=00000000" alt="Top languages" />
+</p>
+
+---
+
+### Contact
+
+<!-- EDIT: replace the placeholders, or delete the lines you do not want to show. -->
+[GitHub](https://github.com/mohammednaeemog-sys) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/your-profile) &nbsp;·&nbsp; [Email](mailto:your.email@example.com)
