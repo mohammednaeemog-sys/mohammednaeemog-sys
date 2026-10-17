@@ -44,8 +44,8 @@ A local, citation-grounded retrieval-augmented generation chatbot over the East 
 ## Contact
 
 - GitHub: [mohammednaeemog-sys](https://github.com/mohammednaeemog-sys)
-- Email: your.email@example.com
-- LinkedIn: https://www.linkedin.com/in/your-profile
+- Email: mohammed.naeem.og@gmail.com
+- LinkedIn: https://www.linkedin.com/in/mohammed-naeem-bb5589400/
 
 <!--
   Notes for you (not visible on GitHub):
