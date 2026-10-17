@@ -27,7 +27,7 @@
 <!-- EDIT: replace the LinkedIn address, or delete that badge. -->
 <p align="center">
   <a href="https://github.com/mohammednaeemog-sys"><img height="38" src="https://img.shields.io/badge/GitHub-mohammednaeemog--sys-0d1117?style=for-the-badge&logo=github&logoColor=FFFFFF&logoSize=auto" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/your-profile"><img height="38" src="https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&logoSize=auto" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/mohammed-naeem-bb5589400/"><img height="38" src="https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&logoSize=auto" alt="LinkedIn" /></a>
   <a href="mailto:mohammed.naeem.og@gmail.com"><img height="38" src="https://img.shields.io/badge/Email-Contact-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335&logoSize=auto" alt="Email" /></a>
 </p>
 
