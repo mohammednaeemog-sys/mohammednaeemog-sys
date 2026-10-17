@@ -51,7 +51,7 @@ I am a Computer Science student at East West University, Dhaka, focused on machi
   <tr>
     <td width="33%" valign="top">
       <b>Machine Learning</b><br />
-      <sub>Deep learning with CNNs<br />Ensemble methods<br />Model evaluation</sub>
+      <sub>Deep learning <br />Ensemble methods<br />Model evaluation</sub>
     </td>
     <td width="33%" valign="top">
       <b>Generative AI</b><br />
