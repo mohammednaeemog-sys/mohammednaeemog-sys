@@ -24,8 +24,8 @@
 <!-- EDIT: replace the LinkedIn and email addresses, or delete the badges you do not want. -->
 <p align="center">
   <a href="https://github.com/mohammednaeemog-sys"><img src="https://img.shields.io/badge/GitHub-mohammednaeemog--sys-0b1220?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact-14213d?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/mohammed-naeem-bb5589400/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:mohammed.naeem.og@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-14213d?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 <img src="assets/divider.svg" width="100%" alt="" />
