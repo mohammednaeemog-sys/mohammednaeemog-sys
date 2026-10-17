@@ -33,7 +33,7 @@
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-## $ about
+## About
 
 ```bash
 $ whoami
@@ -45,7 +45,7 @@ machine learning | generative AI | security
 
 I am a Computer Science student at East West University, Dhaka, focused on machine learning, generative AI, and security. Alongside my degree, I build local-first AI tools and carry out independent research, from diffusion-based image generation to machine learning models for password security.
 
-## $ technical focus
+## Technical focus
 
 <table>
   <tr>
@@ -66,7 +66,7 @@ I am a Computer Science student at East West University, Dhaka, focused on machi
 
 <!-- EDIT: only keep topics you are comfortable discussing in an interview. -->
 
-## $ tech stack
+## Tech stack
 
 <p>
   <img height="44" src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB&logoSize=auto" alt="Python" />
@@ -79,7 +79,7 @@ I am a Computer Science student at East West University, Dhaka, focused on machi
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-## $ featured work
+## Featured work
 
 <table>
   <tr>
@@ -114,7 +114,7 @@ I am a Computer Science student at East West University, Dhaka, focused on machi
   </tr>
 </table>
 
-## $ more projects
+## More projects
 
 | Project | Description | Technologies |
 |:--|:--|:--|
@@ -128,7 +128,7 @@ I am a Computer Science student at East West University, Dhaka, focused on machi
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-## $ github stats
+## Github stats
 
 <!-- Live cards coloured to match the SVGs. They grow as you commit.
      If a card shows an error, the free service is busy: refresh later. -->
@@ -141,7 +141,7 @@ I am a Computer Science student at East West University, Dhaka, focused on machi
   <img src="https://streak-stats.demolab.com/?user=mohammednaeemog-sys&background=0d1117&ring=3fb950&fire=7ee787&currStreakNum=c9d1d9&currStreakLabel=3fb950&sideNums=c9d1d9&sideLabels=8b949e&dates=6e7681&stroke=30363d&border=30363d&hide_border=false&border_radius=10" alt="GitHub streak" />
 </p>
 
-## $ contributions
+## Contributions
 
 <!-- Contribution calendar in your green. Updates automatically. -->
 <p align="center">
