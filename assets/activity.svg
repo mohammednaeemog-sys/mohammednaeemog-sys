@@ -11,7 +11,7 @@
   <!-- left: numbers (updated automatically every day) -->
   <text x="48" y="104" font-size="15" fill="#3fb950" class="mono">$ activity --last-year</text>
   <g font-size="15" class="mono" fill="#c9d1d9">
-    <text x="48" y="144">commits</text><text x="228" y="144" text-anchor="end" fill="#7ee787">105</text>
+    <text x="48" y="144">commits</text><text x="228" y="144" text-anchor="end" fill="#7ee787">106</text>
     <text x="48" y="172">pull requests</text><text x="228" y="172" text-anchor="end" fill="#7ee787">12</text>
     <text x="48" y="200">issues</text><text x="228" y="200" text-anchor="end" fill="#7ee787">0</text>
     <text x="48" y="228">code review</text><text x="228" y="228" text-anchor="end" fill="#7ee787">0</text>
