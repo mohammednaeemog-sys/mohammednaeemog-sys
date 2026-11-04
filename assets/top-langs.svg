@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="350" height="195" viewBox="0 0 350 195" role="img" aria-label="Most used languages">
+  <style>
+    .title { font: 600 18px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif; fill: #3fb950; animation: fade .8s ease-in-out forwards; }
+    .lang { font: 400 12px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif; fill: #c9d1d9; }
+    .item { opacity: 0; animation: fade .3s ease-in-out forwards; }
+    .bar { animation: grow 1s .3s ease-out both; transform-origin: left; }
+    @keyframes fade { from { opacity: 0; } to { opacity: 1; } }
+    @keyframes grow { from { transform: scaleX(0); } to { transform: scaleX(1); } }
+  </style>
+  <rect x="0.5" y="0.5" rx="10" width="349" height="194" fill="#0d1117" stroke="#30363d"/>
+  <text x="25" y="35" class="title">Most Used Languages</text>
+  <mask id="m"><rect x="25" y="60" width="300" height="8" rx="5" fill="#fff"/></mask>
+  <g mask="url(#m)"><g transform="translate(25,60)"><g class="bar"><rect x="0.00" y="0" width="298.16" height="8" fill="#DA5B0B"/><rect x="298.16" y="0" width="1.28" height="8" fill="#3572A5"/><rect x="299.44" y="0" width="0.36" height="8" fill="#f1e05a"/><rect x="299.80" y="0" width="0.16" height="8" fill="#e34c26"/><rect x="299.96" y="0" width="0.03" height="8" fill="#663399"/><rect x="299.99" y="0" width="0.01" height="8" fill="#012456"/></g></g></g>
+  <g transform="translate(25,86)">
+    <g transform="translate(0,0)"><g class="item" style="animation-delay:450ms"><circle cx="5" cy="6" r="5" fill="#DA5B0B"/><text x="15" y="10" class="lang">Jupyter Notebook 99.4%</text></g></g><g transform="translate(150,0)"><g class="item" style="animation-delay:600ms"><circle cx="5" cy="6" r="5" fill="#3572A5"/><text x="15" y="10" class="lang">Python 0.4%</text></g></g><g transform="translate(0,25)"><g class="item" style="animation-delay:750ms"><circle cx="5" cy="6" r="5" fill="#f1e05a"/><text x="15" y="10" class="lang">JavaScript 0.1%</text></g></g><g transform="translate(150,25)"><g class="item" style="animation-delay:900ms"><circle cx="5" cy="6" r="5" fill="#e34c26"/><text x="15" y="10" class="lang">HTML 0.1%</text></g></g><g transform="translate(0,50)"><g class="item" style="animation-delay:1050ms"><circle cx="5" cy="6" r="5" fill="#663399"/><text x="15" y="10" class="lang">CSS 0.0%</text></g></g><g transform="translate(150,50)"><g class="item" style="animation-delay:1200ms"><circle cx="5" cy="6" r="5" fill="#012456"/><text x="15" y="10" class="lang">PowerShell 0.0%</text></g></g>
+  </g>
+</svg>
