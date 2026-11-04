@@ -168,15 +168,19 @@ def stats_svg(u, repos):
 
 # --------------------------------------------------------------- languages
 def langs_svg(repos):
-    sizes, colors = {}, {}
+    # Notebook files are huge (they store outputs), so pure byte counts make
+    # Jupyter look like 99%. Blend size with how many repos use each language.
+    sizes, counts, colors = {}, {}, {}
     for r in repos:
         if r["isFork"]:
             continue
         for e in r["languages"]["edges"]:
             n = e["node"]["name"]
             sizes[n] = sizes.get(n, 0) + e["size"]
+            counts[n] = counts.get(n, 0) + 1
             colors[n] = e["node"]["color"] or MUTED
-    top = sorted(sizes.items(), key=lambda kv: -kv[1])[:8]
+    scores = {n: (sizes[n] ** 0.5) * (counts[n] ** 0.5) for n in sizes}
+    top = sorted(scores.items(), key=lambda kv: -kv[1])[:6]
     total = sum(s for _, s in top) or 1
     width, bar = 350, 300
     segs, x = [], 0.0
@@ -188,7 +192,7 @@ def langs_svg(repos):
     for i, (name, size) in enumerate(top):
         col, row = i % 2, i // 2
         legend.append(
-            f'<g transform="translate({col * 150},{row * 25})"><g class="item" style="animation-delay:{450 + i * 150}ms">'
+            f'<g transform="translate({col * 160},{row * 25})"><g class="item" style="animation-delay:{450 + i * 150}ms">'
             f'<circle cx="5" cy="6" r="5" fill="{colors[name]}"/>'
             f'<text x="15" y="10" class="lang">{escape(name)} {100 * size / total:.1f}%</text></g></g>')
     if not top:
