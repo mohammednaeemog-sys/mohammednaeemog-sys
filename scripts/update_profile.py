@@ -355,6 +355,13 @@ def main():
     text = readme.read_text()
     text = replace_block(text, "PROJECTS", projects_table(repos))
     text = replace_block(text, "RECENT", recent_line(repos))
+    # GitHub keeps old copies of images for a while. A new ?v= stamp on each
+    # run makes it fetch the fresh cards straight away.
+    stamp = datetime.now(timezone.utc).strftime("%Y%m%d%H%M")
+    raw = f"https://raw.githubusercontent.com/{USER}/{USER}/main/assets/"
+    text = re.sub(
+        r'src="(?:assets/|' + re.escape(raw) + r')(stats|top-langs|activity)\.svg(?:\?v=\d+)?"',
+        lambda m: f'src="{raw}{m.group(1)}.svg?v={stamp}"', text)
     readme.write_text(text)
     print("Updated at", datetime.now(timezone.utc).isoformat(timespec="minutes"))
 
