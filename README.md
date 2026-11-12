@@ -162,6 +162,7 @@ I am a Computer Science student at East West University, Dhaka, focused on machi
 <!-- AUTO:PROJECTS:START -->
 | Project | Description | Technologies |
 |:--|:--|:--|
+| [**gaach**](https://github.com/mohammednaeemog-sys/gaach) | No description yet. | TypeScript |
 | [**Portfolio Website**](https://github.com/mohammednaeemog-sys/portfolio) | Personal portfolio with course materials, published to GitHub Pages by GitHub Actions. | React, Vite, JavaScript |
 | [**Penetration Testing Simulation**](https://github.com/mohammednaeemog-sys/Penetration-Testing-and-Remote-Access-Simulation-Using-Kali-Linux-and-Metasploit-Framework) | Simulated penetration test and remote access scenario in a controlled lab environment. | Kali Linux, Metasploit |
 | [**CNN Image Classification**](https://github.com/mohammednaeemog-sys/-Image-Classification-Using-Convolutional-Neural-Network) | Image classifier built with a convolutional neural network. | Deep Learning, Jupyter |
@@ -174,8 +175,8 @@ I am a Computer Science student at East West University, Dhaka, focused on machi
 
 <!-- Cards drawn by .github/workflows/update-profile.yml every day, in the same colours as the SVGs. -->
 <p align="center">
-  <img height="165" src="https://raw.githubusercontent.com/mohammednaeemog-sys/mohammednaeemog-sys/main/assets/stats.svg?v=202611110623" alt="GitHub stats" />
-  <img height="165" src="https://raw.githubusercontent.com/mohammednaeemog-sys/mohammednaeemog-sys/main/assets/top-langs.svg?v=202611110623" alt="Most used languages" />
+  <img height="165" src="https://raw.githubusercontent.com/mohammednaeemog-sys/mohammednaeemog-sys/main/assets/stats.svg?v=202611120712" alt="GitHub stats" />
+  <img height="165" src="https://raw.githubusercontent.com/mohammednaeemog-sys/mohammednaeemog-sys/main/assets/top-langs.svg?v=202611120712" alt="Most used languages" />
 </p>
 
 <p align="center">
@@ -191,13 +192,13 @@ I am a Computer Science student at East West University, Dhaka, focused on machi
 
 <!-- Activity overview chart. Redrawn automatically every day. -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mohammednaeemog-sys/mohammednaeemog-sys/main/assets/activity.svg?v=202611110623" width="100%" alt="Activity overview: mostly commits, with some pull requests" />
+  <img src="https://raw.githubusercontent.com/mohammednaeemog-sys/mohammednaeemog-sys/main/assets/activity.svg?v=202611120712" width="100%" alt="Activity overview: mostly commits, with some pull requests" />
 </p>
 
 <!-- Updated automatically: your three most recently pushed repositories. -->
 <!-- AUTO:RECENT:START -->
 <p align="center">
-  <sub>Recently active in <a href="https://github.com/mohammednaeemog-sys/skein-yarn-comparator">skein-yarn-comparator</a>, <a href="https://github.com/mohammednaeemog-sys/portfolio">portfolio</a> and <a href="https://github.com/mohammednaeemog-sys/AI-Art-Style-Transfer">AI-Art-Style-Transfer</a></sub>
+  <sub>Recently active in <a href="https://github.com/mohammednaeemog-sys/gaach">gaach</a>, <a href="https://github.com/mohammednaeemog-sys/skein-yarn-comparator">skein-yarn-comparator</a> and <a href="https://github.com/mohammednaeemog-sys/portfolio">portfolio</a></sub>
 </p>
 <!-- AUTO:RECENT:END -->
 
