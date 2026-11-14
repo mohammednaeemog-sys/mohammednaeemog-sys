@@ -175,8 +175,8 @@ I am a Computer Science student at East West University, Dhaka, focused on machi
 
 <!-- Cards drawn by .github/workflows/update-profile.yml every day, in the same colours as the SVGs. -->
 <p align="center">
-  <img height="165" src="https://raw.githubusercontent.com/mohammednaeemog-sys/mohammednaeemog-sys/main/assets/stats.svg?v=202611130647" alt="GitHub stats" />
-  <img height="165" src="https://raw.githubusercontent.com/mohammednaeemog-sys/mohammednaeemog-sys/main/assets/top-langs.svg?v=202611130647" alt="Most used languages" />
+  <img height="165" src="https://raw.githubusercontent.com/mohammednaeemog-sys/mohammednaeemog-sys/main/assets/stats.svg?v=202611140625" alt="GitHub stats" />
+  <img height="165" src="https://raw.githubusercontent.com/mohammednaeemog-sys/mohammednaeemog-sys/main/assets/top-langs.svg?v=202611140625" alt="Most used languages" />
 </p>
 
 <p align="center">
@@ -192,7 +192,7 @@ I am a Computer Science student at East West University, Dhaka, focused on machi
 
 <!-- Activity overview chart. Redrawn automatically every day. -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mohammednaeemog-sys/mohammednaeemog-sys/main/assets/activity.svg?v=202611130647" width="100%" alt="Activity overview: mostly commits, with some pull requests" />
+  <img src="https://raw.githubusercontent.com/mohammednaeemog-sys/mohammednaeemog-sys/main/assets/activity.svg?v=202611140625" width="100%" alt="Activity overview: mostly commits, with some pull requests" />
 </p>
 
 <!-- Updated automatically: your three most recently pushed repositories. -->
